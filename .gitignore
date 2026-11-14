@@ -1,0 +1,19 @@
+# Built data.
+#
+# data/embeddings/ IS committed: 191 MB, all 40 slides as features + coords +
+# per-patch scores with no pixel arrays. This is what the EA group consumes.
+#
+# data/slides/ is NOT committed: the same records plus the 224 px RGB patches,
+# 2.3 GB. Regenerate with `python src/build.py build`, or re-cut any patch from
+# the remote WSI using the stored `coords`.
+**/data/slides/
+**/data/masks/
+**/data/annotations/
+**/data/meta/
+**/data/build.log
+**/data/manifest_rows.json
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/

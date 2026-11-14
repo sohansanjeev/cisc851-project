@@ -1,0 +1,557 @@
+[
+  {
+    "slide_id": "tumor_076",
+    "lesion_mm2": 138.266,
+    "n_polygons": 38
+  },
+  {
+    "slide_id": "tumor_089",
+    "lesion_mm2": 103.125,
+    "n_polygons": 116
+  },
+  {
+    "slide_id": "tumor_054",
+    "lesion_mm2": 89.648,
+    "n_polygons": 12
+  },
+  {
+    "slide_id": "tumor_044",
+    "lesion_mm2": 63.378,
+    "n_polygons": 13
+  },
+  {
+    "slide_id": "tumor_110",
+    "lesion_mm2": 62.175,
+    "n_polygons": 39
+  },
+  {
+    "slide_id": "tumor_078",
+    "lesion_mm2": 57.316,
+    "n_polygons": 96
+  },
+  {
+    "slide_id": "tumor_095",
+    "lesion_mm2": 51.141,
+    "n_polygons": 27
+  },
+  {
+    "slide_id": "tumor_046",
+    "lesion_mm2": 50.442,
+    "n_polygons": 5
+  },
+  {
+    "slide_id": "tumor_009",
+    "lesion_mm2": 50.227,
+    "n_polygons": 6
+  },
+  {
+    "slide_id": "tumor_026",
+    "lesion_mm2": 47.634,
+    "n_polygons": 20
+  },
+  {
+    "slide_id": "tumor_047",
+    "lesion_mm2": 35.301,
+    "n_polygons": 67
+  },
+  {
+    "slide_id": "tumor_085",
+    "lesion_mm2": 28.324,
+    "n_polygons": 50
+  },
+  {
+    "slide_id": "tumor_058",
+    "lesion_mm2": 20.859,
+    "n_polygons": 15
+  },
+  {
+    "slide_id": "tumor_102",
+    "lesion_mm2": 19.073,
+    "n_polygons": 53
+  },
+  {
+    "slide_id": "tumor_055",
+    "lesion_mm2": 17.295,
+    "n_polygons": 29
+  },
+  {
+    "slide_id": "tumor_068",
+    "lesion_mm2": 14.611,
+    "n_polygons": 39
+  },
+  {
+    "slide_id": "tumor_082",
+    "lesion_mm2": 14.282,
+    "n_polygons": 4
+  },
+  {
+    "slide_id": "tumor_090",
+    "lesion_mm2": 13.86,
+    "n_polygons": 6
+  },
+  {
+    "slide_id": "tumor_011",
+    "lesion_mm2": 12.209,
+    "n_polygons": 63
+  },
+  {
+    "slide_id": "tumor_039",
+    "lesion_mm2": 11.598,
+    "n_polygons": 148
+  },
+  {
+    "slide_id": "tumor_101",
+    "lesion_mm2": 11.341,
+    "n_polygons": 8
+  },
+  {
+    "slide_id": "tumor_088",
+    "lesion_mm2": 10.549,
+    "n_polygons": 26
+  },
+  {
+    "slide_id": "tumor_016",
+    "lesion_mm2": 9.491,
+    "n_polygons": 9
+  },
+  {
+    "slide_id": "tumor_064",
+    "lesion_mm2": 7.902,
+    "n_polygons": 35
+  },
+  {
+    "slide_id": "tumor_031",
+    "lesion_mm2": 7.353,
+    "n_polygons": 86
+  },
+  {
+    "slide_id": "tumor_072",
+    "lesion_mm2": 6.934,
+    "n_polygons": 4
+  },
+  {
+    "slide_id": "tumor_109",
+    "lesion_mm2": 6.859,
+    "n_polygons": 20
+  },
+  {
+    "slide_id": "tumor_033",
+    "lesion_mm2": 6.499,
+    "n_polygons": 12
+  },
+  {
+    "slide_id": "tumor_061",
+    "lesion_mm2": 5.803,
+    "n_polygons": 45
+  },
+  {
+    "slide_id": "tumor_104",
+    "lesion_mm2": 5.797,
+    "n_polygons": 15
+  },
+  {
+    "slide_id": "tumor_051",
+    "lesion_mm2": 5.557,
+    "n_polygons": 16
+  },
+  {
+    "slide_id": "tumor_105",
+    "lesion_mm2": 5.158,
+    "n_polygons": 160
+  },
+  {
+    "slide_id": "tumor_036",
+    "lesion_mm2": 4.582,
+    "n_polygons": 105
+  },
+  {
+    "slide_id": "tumor_025",
+    "lesion_mm2": 4.571,
+    "n_polygons": 27
+  },
+  {
+    "slide_id": "tumor_020",
+    "lesion_mm2": 4.561,
+    "n_polygons": 22
+  },
+  {
+    "slide_id": "tumor_034",
+    "lesion_mm2": 4.191,
+    "n_polygons": 91
+  },
+  {
+    "slide_id": "tumor_014",
+    "lesion_mm2": 4.041,
+    "n_polygons": 13
+  },
+  {
+    "slide_id": "tumor_108",
+    "lesion_mm2": 3.933,
+    "n_polygons": 14
+  },
+  {
+    "slide_id": "tumor_094",
+    "lesion_mm2": 3.704,
+    "n_polygons": 2
+  },
+  {
+    "slide_id": "tumor_106",
+    "lesion_mm2": 3.592,
+    "n_polygons": 228
+  },
+  {
+    "slide_id": "tumor_029",
+    "lesion_mm2": 3.363,
+    "n_polygons": 17
+  },
+  {
+    "slide_id": "tumor_071",
+    "lesion_mm2": 3.206,
+    "n_polygons": 41
+  },
+  {
+    "slide_id": "tumor_052",
+    "lesion_mm2": 3.137,
+    "n_polygons": 14
+  },
+  {
+    "slide_id": "tumor_018",
+    "lesion_mm2": 2.987,
+    "n_polygons": 34
+  },
+  {
+    "slide_id": "tumor_075",
+    "lesion_mm2": 2.858,
+    "n_polygons": 29
+  },
+  {
+    "slide_id": "tumor_091",
+    "lesion_mm2": 2.828,
+    "n_polygons": 7
+  },
+  {
+    "slide_id": "tumor_083",
+    "lesion_mm2": 2.821,
+    "n_polygons": 5
+  },
+  {
+    "slide_id": "tumor_042",
+    "lesion_mm2": 2.673,
+    "n_polygons": 1
+  },
+  {
+    "slide_id": "tumor_038",
+    "lesion_mm2": 2.026,
+    "n_polygons": 57
+  },
+  {
+    "slide_id": "tumor_037",
+    "lesion_mm2": 2.002,
+    "n_polygons": 26
+  },
+  {
+    "slide_id": "tumor_004",
+    "lesion_mm2": 1.944,
+    "n_polygons": 7
+  },
+  {
+    "slide_id": "tumor_084",
+    "lesion_mm2": 1.931,
+    "n_polygons": 54
+  },
+  {
+    "slide_id": "tumor_062",
+    "lesion_mm2": 1.928,
+    "n_polygons": 2
+  },
+  {
+    "slide_id": "tumor_056",
+    "lesion_mm2": 1.894,
+    "n_polygons": 31
+  },
+  {
+    "slide_id": "tumor_021",
+    "lesion_mm2": 1.822,
+    "n_polygons": 35
+  },
+  {
+    "slide_id": "tumor_096",
+    "lesion_mm2": 1.371,
+    "n_polygons": 42
+  },
+  {
+    "slide_id": "tumor_092",
+    "lesion_mm2": 1.351,
+    "n_polygons": 3
+  },
+  {
+    "slide_id": "tumor_079",
+    "lesion_mm2": 1.124,
+    "n_polygons": 4
+  },
+  {
+    "slide_id": "tumor_099",
+    "lesion_mm2": 0.803,
+    "n_polygons": 92
+  },
+  {
+    "slide_id": "tumor_045",
+    "lesion_mm2": 0.714,
+    "n_polygons": 2
+  },
+  {
+    "slide_id": "tumor_015",
+    "lesion_mm2": 0.703,
+    "n_polygons": 9
+  },
+  {
+    "slide_id": "tumor_001",
+    "lesion_mm2": 0.672,
+    "n_polygons": 2
+  },
+  {
+    "slide_id": "tumor_069",
+    "lesion_mm2": 0.575,
+    "n_polygons": 3
+  },
+  {
+    "slide_id": "tumor_077",
+    "lesion_mm2": 0.548,
+    "n_polygons": 13
+  },
+  {
+    "slide_id": "tumor_073",
+    "lesion_mm2": 0.535,
+    "n_polygons": 1
+  },
+  {
+    "slide_id": "tumor_111",
+    "lesion_mm2": 0.526,
+    "n_polygons": 9
+  },
+  {
+    "slide_id": "tumor_074",
+    "lesion_mm2": 0.489,
+    "n_polygons": 8
+  },
+  {
+    "slide_id": "tumor_013",
+    "lesion_mm2": 0.419,
+    "n_polygons": 6
+  },
+  {
+    "slide_id": "tumor_003",
+    "lesion_mm2": 0.417,
+    "n_polygons": 14
+  },
+  {
+    "slide_id": "tumor_050",
+    "lesion_mm2": 0.396,
+    "n_polygons": 6
+  },
+  {
+    "slide_id": "tumor_080",
+    "lesion_mm2": 0.357,
+    "n_polygons": 12
+  },
+  {
+    "slide_id": "tumor_100",
+    "lesion_mm2": 0.329,
+    "n_polygons": 2
+  },
+  {
+    "slide_id": "tumor_022",
+    "lesion_mm2": 0.28,
+    "n_polygons": 2
+  },
+  {
+    "slide_id": "tumor_107",
+    "lesion_mm2": 0.247,
+    "n_polygons": 5
+  },
+  {
+    "slide_id": "tumor_103",
+    "lesion_mm2": 0.239,
+    "n_polygons": 7
+  },
+  {
+    "slide_id": "tumor_093",
+    "lesion_mm2": 0.223,
+    "n_polygons": 1
+  },
+  {
+    "slide_id": "tumor_087",
+    "lesion_mm2": 0.206,
+    "n_polygons": 11
+  },
+  {
+    "slide_id": "tumor_019",
+    "lesion_mm2": 0.198,
+    "n_polygons": 4
+  },
+  {
+    "slide_id": "tumor_032",
+    "lesion_mm2": 0.184,
+    "n_polygons": 4
+  },
+  {
+    "slide_id": "tumor_027",
+    "lesion_mm2": 0.161,
+    "n_polygons": 1
+  },
+  {
+    "slide_id": "tumor_049",
+    "lesion_mm2": 0.156,
+    "n_polygons": 2
+  },
+  {
+    "slide_id": "tumor_041",
+    "lesion_mm2": 0.154,
+    "n_polygons": 6
+  },
+  {
+    "slide_id": "tumor_007",
+    "lesion_mm2": 0.143,
+    "n_polygons": 9
+  },
+  {
+    "slide_id": "tumor_005",
+    "lesion_mm2": 0.141,
+    "n_polygons": 4
+  },
+  {
+    "slide_id": "tumor_006",
+    "lesion_mm2": 0.139,
+    "n_polygons": 5
+  },
+  {
+    "slide_id": "tumor_048",
+    "lesion_mm2": 0.13,
+    "n_polygons": 3
+  },
+  {
+    "slide_id": "tumor_023",
+    "lesion_mm2": 0.121,
+    "n_polygons": 6
+  },
+  {
+    "slide_id": "tumor_065",
+    "lesion_mm2": 0.117,
+    "n_polygons": 11
+  },
+  {
+    "slide_id": "tumor_028",
+    "lesion_mm2": 0.111,
+    "n_polygons": 10
+  },
+  {
+    "slide_id": "tumor_097",
+    "lesion_mm2": 0.111,
+    "n_polygons": 67
+  },
+  {
+    "slide_id": "tumor_063",
+    "lesion_mm2": 0.084,
+    "n_polygons": 3
+  },
+  {
+    "slide_id": "tumor_066",
+    "lesion_mm2": 0.072,
+    "n_polygons": 3
+  },
+  {
+    "slide_id": "tumor_057",
+    "lesion_mm2": 0.071,
+    "n_polygons": 20
+  },
+  {
+    "slide_id": "tumor_012",
+    "lesion_mm2": 0.068,
+    "n_polygons": 1
+  },
+  {
+    "slide_id": "tumor_024",
+    "lesion_mm2": 0.063,
+    "n_polygons": 2
+  },
+  {
+    "slide_id": "tumor_086",
+    "lesion_mm2": 0.061,
+    "n_polygons": 2
+  },
+  {
+    "slide_id": "tumor_002",
+    "lesion_mm2": 0.057,
+    "n_polygons": 1
+  },
+  {
+    "slide_id": "tumor_053",
+    "lesion_mm2": 0.044,
+    "n_polygons": 1
+  },
+  {
+    "slide_id": "tumor_008",
+    "lesion_mm2": 0.036,
+    "n_polygons": 7
+  },
+  {
+    "slide_id": "tumor_040",
+    "lesion_mm2": 0.033,
+    "n_polygons": 5
+  },
+  {
+    "slide_id": "tumor_098",
+    "lesion_mm2": 0.03,
+    "n_polygons": 5
+  },
+  {
+    "slide_id": "tumor_081",
+    "lesion_mm2": 0.029,
+    "n_polygons": 1
+  },
+  {
+    "slide_id": "tumor_060",
+    "lesion_mm2": 0.028,
+    "n_polygons": 1
+  },
+  {
+    "slide_id": "tumor_070",
+    "lesion_mm2": 0.027,
+    "n_polygons": 2
+  },
+  {
+    "slide_id": "tumor_010",
+    "lesion_mm2": 0.024,
+    "n_polygons": 3
+  },
+  {
+    "slide_id": "tumor_043",
+    "lesion_mm2": 0.019,
+    "n_polygons": 1
+  },
+  {
+    "slide_id": "tumor_030",
+    "lesion_mm2": 0.016,
+    "n_polygons": 1
+  },
+  {
+    "slide_id": "tumor_059",
+    "lesion_mm2": 0.016,
+    "n_polygons": 1
+  },
+  {
+    "slide_id": "tumor_017",
+    "lesion_mm2": 0.011,
+    "n_polygons": 2
+  },
+  {
+    "slide_id": "tumor_035",
+    "lesion_mm2": 0.01,
+    "n_polygons": 3
+  },
+  {
+    "slide_id": "tumor_067",
+    "lesion_mm2": 0.008,
+    "n_polygons": 1
+  }
+]
