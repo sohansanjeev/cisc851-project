@@ -1,4 +1,4 @@
-# CISC 455/851 — frozen patch embeddings from CAMELYON16
+# Frozen patch embeddings from CAMELYON16
 
 This repository produces only the representation layer for the group project: a fixed set of patch embeddings, with coordinates, that the evolutionary algorithm searches over. No aggregator, no fitness function and no EA code live here — any head that consumes `(N, 2560)` instances and returns one score per slide will work, and a linear layer after mean-pooling is enough to sanity-check the features.
 
