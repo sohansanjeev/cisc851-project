@@ -1,0 +1,30 @@
+{
+  "output": "wsi-embeddings/results/k20_full",
+  "seeds": [
+    851,
+    852,
+    853
+  ],
+  "k": 20,
+  "generations": 30,
+  "population": 32,
+  "elites": 2,
+  "fold_limit": 5,
+  "threads": 2,
+  "split_seed": 851,
+  "split_unit": "slide",
+  "candidate_budget": 932,
+  "bags_per_slide": 24,
+  "ridge_alpha": 10,
+  "tournament_size": 3,
+  "crossover_rate": 0.8,
+  "mutation_rate": 1.0,
+  "local_neighbors": 10,
+  "complete": true,
+  "environment": {
+    "python": "3.14.6",
+    "numpy": "2.5.5",
+    "sklearn": "1.9.1"
+  },
+  "elapsed_seconds": 205.14092633398832
+}
