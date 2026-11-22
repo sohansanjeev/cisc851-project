@@ -6,6 +6,46 @@ The repository includes both **data preparation and quality checks** and **genet
 
 All paths below are relative to the Git repository root (`cisc851-project/`) unless a section explicitly says to work inside `wsi-embeddings/`.
 
+# Code Workflow and Execution Order
+
+The project is organized into two main stages: preparing the image embeddings and applying evolutionary algorithms to select patches for classification.
+
+The code follows this general workflow:
+
+# Stage 1: Data Preparation
+
+`camelyon.py` — Accesses the CAMELYON16 slide images and extracts image information.
+
+`build.py` — Selects image patches and generates embeddings using Virchow2.
+
+`qc.py` — Performs quality checks on the generated embeddings.
+
+# Stage 2: Evolutionary Algorithm and Evaluation
+
+`patch_data.py` — Loads the prepared embeddings.
+
+`idge_baseline.py` — Creates the dataset splits and trains the ridge classifier.
+
+`ga_operators.py` — Defines the genetic algorithm operators, including selection, crossover and mutation.
+
+`ga_search.py` — Uses these operators to search for suitable patch subsets.
+
+`prototype_transfer.py` — Uses selected patches to identify similar patches in unseen slides.
+
+`search_baselines.py` — Implements random search and hill climbing for comparison.
+
+`run_experiments.py` — Coordinates the experiments and saves the results.
+
+`plot_experiments.py` — Generates figures and summaries from the saved results.
+
+# Running the Project
+
+The prepared embeddings are already included in the repository, so the data preparation stage does not need to be repeated to run the evolutionary algorithm experiments.
+
+The main script for running the experiments is run_experiments.py. Once the experiments are complete, plot_experiments.py can be used to generate the figures.
+
+The detailed installation instructions and commands are provided in the Running the Code section below.
+
 ## Quick start: run the evolutionary algorithm
 
 From the repository root, create and activate a Python virtual environment and install the EA dependencies:
